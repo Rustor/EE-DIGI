@@ -1,1 +1,1 @@
-# EE-DIGI
+# EE-Digi
